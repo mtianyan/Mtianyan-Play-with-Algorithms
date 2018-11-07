@@ -1,5 +1,3 @@
-package bobo.algo;
-
 import java.util.*;
 
 public class SelectionSort {
