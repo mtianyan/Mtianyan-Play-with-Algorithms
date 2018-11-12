@@ -6,7 +6,7 @@
 #define CHAPTER_03_COMPLETED_CODE_MERGESORTBUO_H
 
 #include <iostream>
-#include <algorithm>s
+#include <algorithm>
 #include "InsertionSort.h"
 
 using namespace std;

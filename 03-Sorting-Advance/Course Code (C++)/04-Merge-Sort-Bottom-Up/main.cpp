@@ -41,7 +41,7 @@ void mergeSortBU(T arr[], int n){
 // 本章节的代码仓也会给出更详细的测试代码
 int main() {
 
-    int n = 1000000;
+    int n = 100000;
 
     // 测试1 一般性测试
     cout<<"Test for random array, size = "<<n<<", random range [0, "<<n<<"]"<<endl;
